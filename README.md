@@ -24,10 +24,11 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://expressjs.com/" rel="nofollow" title="expressjs">
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="50" height="50" style="background-color: white;">
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="50" height="50" style="background-color:blue">
 </a>
 <a href="https://laravel.com/" rel="nofollow" title="laravel"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"></a>
 </p>
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 
 - <p align="left"> Frontend: 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
