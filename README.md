@@ -14,6 +14,12 @@
 <hr />
 <h3 align="left"><b>Current skills</b></h3>
 
+<div>
+
+<img s align="right" src="https://res.cloudinary.com/dftu7s8cf/image/upload/v1658526534/My_jobs/F_sanz/profile/Code_typing-bro_recortad.png" alt="img-presentacion"
+  width="500" height="400" title="Source: https://storyset.com/work - freepik">
+
+
 - <p align="left"> Backend:  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
