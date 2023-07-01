@@ -14,7 +14,7 @@
 <hr />
 
 <img s align="right" src="https://res.cloudinary.com/dftu7s8cf/image/upload/v1658526534/My_jobs/F_sanz/profile/Code_typing-bro_recortad.png" alt="img-presentacion"
-  width="500" height="300" title="Source: https://storyset.com/work - freepik">
+  width="420" height="300" title="Source: https://storyset.com/work - freepik">
 
 <p align="left"> <h3><b>Current skills:</b></h3>
 <table>
